@@ -4,5 +4,5 @@
 
 #### This application is completely written in Swift 4 , Xcode 9, Cocoapods - Alamofire, SwiftyJSON
 
-![Screenshot1] (https://i.imgur.com/RJMLEai.jpg)
+[Screenshot1] (https://i.imgur.com/RJMLEai.jpg)
 
